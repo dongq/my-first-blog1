@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".git"
+		},
+		{
+			"path": ".ipynb_checkpoints"
+		},
+		{
+			"path": "blog"
+		},
+		{
+			"path": "myenv"
+		},
+		{
+			"path": "mysite"
+		}
+	]
+}
